@@ -1,25 +1,28 @@
 # ColorMage
 
-Controls:
+ColorMage is a magical game where you can unleash your creativity and create cool and imaginative stuff with your magic. The goal is to ascend higher as the world below you incrementally disappears. To fuel up your flying capability, you need to create cooler and more creative sceneries with colors using your magic.
 
-If ur on PC
-  wasd is for walking and flying
-  arrows for drawing magic
-  space to apply magic
+## Controls
 
-On phone you have joysticks on each side, and the spacebar is the creativity bar
+### PC
 
-You are a magician
-You have to make cool and creative stuff with your magic
+- Use the **WASD** keys for walking and flying.
+- Use the **arrow keys** for drawing magic.
+- Press the **space bar** to apply magic.
 
-The cooler you make it the more you fuel up ur flying capability
+### Phone
 
-With magic you place or remove blocks, and change their color
+- On mobile devices, you will find joysticks on each side of the screen.
+- Use the **joysticks** to control your character's movement.
+- Press the **space bar** for activating the creativity bar.
 
-The goal is to get higher, as the world is incrementally disappearing below you
-Also to make cool sceneries with colors!
+## How to Play
 
-Ur magic has to be creative melodically and rhytmically
+As a magician, you have the power to place or remove blocks and change their colors using your magic. The magic you create should be both creative melodically and rhythmically.
 
-  Melody is tied to the drawing direction
-  Rhythm is the amount of ticks you wait between each part of magic
+- **Melody**: The drawing direction of your magic influences the melody.
+- **Rhythm**: The amount of time you wait between each part of your magic affects the rhythm.
+
+Remember, the more imaginative and inventive your magic is, the more your flying capability improves. So, let your creativity flow and craft amazing sceneries with vibrant colors!
+
+Enjoy playing ColorMage!
