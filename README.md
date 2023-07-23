@@ -4,6 +4,8 @@ ColorMage is a magical game where you can unleash your creativity and create coo
 
 ##Links:
    - PC: https://drive.google.com/file/d/1daEVh7r2v1rno3LAxUEqBe8f6BFknQea/view?usp=drive_link
+   - Android: https://drive.google.com/file/d/12V6YgTWVzcuSxM31APLEauewQ45ZVzkA/view?usp=drive_link
+   - iOS: coming soon
 
 ## Controls
 
