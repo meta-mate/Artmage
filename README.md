@@ -13,8 +13,8 @@ ColorMage is a magical game where you can unleash your creativity and create coo
 ### Phone
 
 - On mobile devices, you will find joysticks on each side of the screen.
-- Use the **joysticks** to control your character's movement.
-- Press the **space bar** for activating the creativity bar.
+- Use the **joysticks** to control your character's movement and draw magic.
+- Press the **creativity bar** to apply magic.
 
 ## How to Play
 
