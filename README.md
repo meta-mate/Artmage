@@ -1,5 +1,7 @@
 # ColorMage
 
+![Thumbnail](https://github.com/meta-mate/ColorMage/assets/93013817/6ee62abe-4d28-466f-b93a-346e9157c2fc)
+
 ColorMage is a magical game where you can unleash your creativity and create cool and imaginative stuff with your magic. The goal is to ascend higher as the world below you incrementally disappears. To fuel up your flying capability, you need to create cooler and more creative sceneries with colors using your magic.
 
 ## Links:
