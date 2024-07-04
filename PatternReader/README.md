@@ -7,13 +7,13 @@ and expresses the differences between the subsequent elements of a pattern
 
 for example:
 
-pattern: 1, 0, 0
-differences: 1, 0
+pattern: 1, 0, 0 <br />
+differences: 1, 0 <br />
 
 then name an **abstract** operation, which looks at the **differences of the differences**.
 
-pattern: 1, 0
-differences: 1
+pattern: 1, 0 <br />
+differences: 1 <br />
 
 we can see that the pattern shrinks to 1 element, which can tell if the whole pattern changed or not
 
@@ -27,18 +27,18 @@ we can no longer rely on basic indecies to tell what differentiates what, becaus
 
 For example:
 
-pattern:
-0, 1, 1, 0, 1
-differences:
-1, 0, 1, 1
-1, 1, 0
-1, 0
-1
+pattern: <br />
+0, 1, 1, 0, 1 <br />
+differences: <br />
+1, 0, 1, 1 <br />
+1, 1, 0 <br />
+1, 0 <br />
+1 <br />
 
 then we take the first value of each row as a pattern, because they were the results of the program as the input grew
 
-pattern:
-1, 1, 1, 1
+pattern: <br />
+1, 1, 1, 1 <br />
 
 we can also see, that the pattern **always** changed with the simple approach, but with the abstract approach it really didnt
 
@@ -49,7 +49,7 @@ we just increased the intelligence of the program with abstraction
 For example, if the base system had the name of 1
 we differentiate a name using some divider, like a ".", so we get 1.1
 
-so 1.1 looks at 1
+so 1.1 looks at 1 <br />
 1.1.1 looks at 1.1
 
 and with that, we defined a new differentiating system.
