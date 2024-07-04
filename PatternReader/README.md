@@ -1,1 +1,1 @@
-#PatternReader#
+PatternReader
