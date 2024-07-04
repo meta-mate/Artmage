@@ -1,11 +1,11 @@
-# ColorMage
+# Artmage
 
 ![Thumbnail](https://github.com/meta-mate/ColorMage/assets/93013817/6ee62abe-4d28-466f-b93a-346e9157c2fc)
 
 ColorMage is a magical game where you can unleash your creativity and create cool and imaginative stuff with your magic. The goal is to ascend higher as the world below you incrementally disappears. To fuel up your flying capability, you need to create cooler and more creative sceneries with colors using your magic.
 
 ## Links:
-   - ithc.io: https://metamate.itch.io/color-mage
+   - ithc.io: https://metamate.itch.io/artmage
    - PC (multiplatform): https://drive.google.com/file/d/1daEVh7r2v1rno3LAxUEqBe8f6BFknQea/view?usp=drive_link
    - Android: https://drive.google.com/file/d/12V6YgTWVzcuSxM31APLEauewQ45ZVzkA/view?usp=drive_link
    - iOS: coming soon
@@ -33,4 +33,4 @@ As a magician, you have the power to place or remove blocks and change their col
 
 Remember, the more imaginative and inventive your magic is, the more your flying capability improves. So, let your creativity flow and craft amazing sceneries with vibrant colors!
 
-Enjoy playing ColorMage!
+Enjoy playing Artmage!
