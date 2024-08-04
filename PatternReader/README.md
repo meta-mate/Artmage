@@ -31,7 +31,7 @@ pattern: <br />
 0, 1, 1, 0, 1 <br />
 differences: <br />
 1, 0, 1, 1 <br />
-1, 1, 0 <br />
+1, 0, 0 <br />
 1, 0 <br />
 1 <br />
 
